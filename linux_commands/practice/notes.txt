@@ -1,0 +1,4 @@
+Linux is an operating system.
+We practice Linux commands.
+The grep command searches text.
+Linux is useful for OS labs.
